@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jpbc-api-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk1.8.0_281/jre/lib/jpbc-api-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
